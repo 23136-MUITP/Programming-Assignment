@@ -1,0 +1,25 @@
+body {
+
+    font-family: Arial, sans-serif;
+    color: black
+  }
+  pre {
+    text-align: left;
+    margin-bottom:200px;
+    margin-left: 250px;
+    margin-right: 350px;
+  }
+  .section {
+    background-color: #176B87;
+    margin-bottom: 20px;
+  }
+  .section h2 {
+    margin-bottom: 10px;
+  }
+  .section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  .section ul li {
+    margin-bottom: 5px;
+  } 
